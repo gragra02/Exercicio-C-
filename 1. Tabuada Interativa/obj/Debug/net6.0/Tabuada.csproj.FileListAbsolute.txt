@@ -1,0 +1,30 @@
+C:\Projetos\Tabuada\bin\Debug\net6.0\Tabuada.exe
+C:\Projetos\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+C:\Projetos\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+C:\Projetos\Tabuada\bin\Debug\net6.0\Tabuada.dll
+C:\Projetos\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.dll
+C:\Projetos\Tabuada\obj\Debug\net6.0\refint\Tabuada.dll
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+C:\Projetos\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+C:\Projetos\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll
+C:\Projetos\1. Tabuada Interativa\bin\Debug\net6.0\Tabuada.exe
+C:\Projetos\1. Tabuada Interativa\bin\Debug\net6.0\Tabuada.deps.json
+C:\Projetos\1. Tabuada Interativa\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+C:\Projetos\1. Tabuada Interativa\bin\Debug\net6.0\Tabuada.dll
+C:\Projetos\1. Tabuada Interativa\bin\Debug\net6.0\Tabuada.pdb
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.dll
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\refint\Tabuada.dll
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.pdb
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+C:\Projetos\1. Tabuada Interativa\obj\Debug\net6.0\ref\Tabuada.dll

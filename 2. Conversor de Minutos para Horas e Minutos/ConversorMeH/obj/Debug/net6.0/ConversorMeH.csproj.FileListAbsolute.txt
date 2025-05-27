@@ -1,0 +1,15 @@
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\bin\Debug\net6.0\ConversorMeH.exe
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\bin\Debug\net6.0\ConversorMeH.deps.json
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\bin\Debug\net6.0\ConversorMeH.runtimeconfig.json
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\bin\Debug\net6.0\ConversorMeH.dll
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\bin\Debug\net6.0\ConversorMeH.pdb
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.csproj.AssemblyReference.cache
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.AssemblyInfoInputs.cache
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.AssemblyInfo.cs
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.csproj.CoreCompileInputs.cache
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.dll
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\refint\ConversorMeH.dll
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.pdb
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ConversorMeH.genruntimeconfig.cache
+C:\Projetos\2. Conversor de Minutos para Horas e Minutos\ConversorMeH\obj\Debug\net6.0\ref\ConversorMeH.dll

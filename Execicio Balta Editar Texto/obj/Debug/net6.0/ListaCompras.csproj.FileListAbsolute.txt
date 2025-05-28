@@ -1,0 +1,15 @@
+C:\Projetos\ListaCompras\bin\Debug\net6.0\ListaCompras.exe
+C:\Projetos\ListaCompras\bin\Debug\net6.0\ListaCompras.deps.json
+C:\Projetos\ListaCompras\bin\Debug\net6.0\ListaCompras.runtimeconfig.json
+C:\Projetos\ListaCompras\bin\Debug\net6.0\ListaCompras.dll
+C:\Projetos\ListaCompras\bin\Debug\net6.0\ListaCompras.pdb
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.csproj.AssemblyReference.cache
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.AssemblyInfoInputs.cache
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.AssemblyInfo.cs
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.csproj.CoreCompileInputs.cache
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.dll
+C:\Projetos\ListaCompras\obj\Debug\net6.0\refint\ListaCompras.dll
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.pdb
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ListaCompras.genruntimeconfig.cache
+C:\Projetos\ListaCompras\obj\Debug\net6.0\ref\ListaCompras.dll

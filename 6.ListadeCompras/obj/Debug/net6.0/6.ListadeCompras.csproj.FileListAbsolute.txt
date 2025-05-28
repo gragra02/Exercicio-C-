@@ -1,0 +1,15 @@
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\bin\Debug\net6.0\6.ListadeCompras.exe
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\bin\Debug\net6.0\6.ListadeCompras.deps.json
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\bin\Debug\net6.0\6.ListadeCompras.runtimeconfig.json
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\bin\Debug\net6.0\6.ListadeCompras.dll
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\bin\Debug\net6.0\6.ListadeCompras.pdb
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.csproj.AssemblyReference.cache
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.AssemblyInfoInputs.cache
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.AssemblyInfo.cs
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.dll
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\refint\6.ListadeCompras.dll
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.pdb
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\6.ListadeCompras.genruntimeconfig.cache
+C:\Projetos\Exercicio-Csharp\6.ListadeCompras\obj\Debug\net6.0\ref\6.ListadeCompras.dll

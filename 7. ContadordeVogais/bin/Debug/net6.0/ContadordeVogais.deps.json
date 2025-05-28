@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ContadordeVogais/1.0.0": {
+        "runtime": {
+          "ContadordeVogais.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContadordeVogais/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

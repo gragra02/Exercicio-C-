@@ -1,0 +1,15 @@
+C:\Projetos\ContadordeVogais\bin\Debug\net6.0\ContadordeVogais.exe
+C:\Projetos\ContadordeVogais\bin\Debug\net6.0\ContadordeVogais.deps.json
+C:\Projetos\ContadordeVogais\bin\Debug\net6.0\ContadordeVogais.runtimeconfig.json
+C:\Projetos\ContadordeVogais\bin\Debug\net6.0\ContadordeVogais.dll
+C:\Projetos\ContadordeVogais\bin\Debug\net6.0\ContadordeVogais.pdb
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.csproj.AssemblyReference.cache
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.AssemblyInfoInputs.cache
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.AssemblyInfo.cs
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.csproj.CoreCompileInputs.cache
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.dll
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\refint\ContadordeVogais.dll
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.pdb
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ContadordeVogais.genruntimeconfig.cache
+C:\Projetos\ContadordeVogais\obj\Debug\net6.0\ref\ContadordeVogais.dll

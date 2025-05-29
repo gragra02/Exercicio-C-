@@ -1,0 +1,15 @@
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.csproj.AssemblyReference.cache
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.AssemblyInfoInputs.cache
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.AssemblyInfo.cs
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.csproj.CoreCompileInputs.cache
+C:\Projetos\Exercicio-Csharp\SimuladorDados\bin\Debug\net6.0\SimuladorDados.exe
+C:\Projetos\Exercicio-Csharp\SimuladorDados\bin\Debug\net6.0\SimuladorDados.deps.json
+C:\Projetos\Exercicio-Csharp\SimuladorDados\bin\Debug\net6.0\SimuladorDados.runtimeconfig.json
+C:\Projetos\Exercicio-Csharp\SimuladorDados\bin\Debug\net6.0\SimuladorDados.dll
+C:\Projetos\Exercicio-Csharp\SimuladorDados\bin\Debug\net6.0\SimuladorDados.pdb
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.dll
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\refint\SimuladorDados.dll
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.pdb
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\SimuladorDados.genruntimeconfig.cache
+C:\Projetos\Exercicio-Csharp\SimuladorDados\obj\Debug\net6.0\ref\SimuladorDados.dll
